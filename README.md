@@ -1,5 +1,4 @@
 Hi I'm Leah👋
-<[www.linkedin.com/in/](https://www.linkedin.com/in/leahmoreno2028/)><morenoleah2006@gmail.com>
 I am a Sophmore Computer Science student at SFSU looking for internships where I can apply my classroom knowledge to real-world problems. I'm passionate about building clean, efficient code and learning from experienced mentors. Thanks for visiting and I'd love to connect!
 <!--
 **LeahLLM/LeahLLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
